@@ -1,6 +1,6 @@
 # Exampler
 
-TODO: Write a gem description
+This is simple gem which demonstrating how it's made. The main goal of this gem - learning how to make simple static blog generator in according with some advices from http://blakewilliams.me/
 
 ## Installation
 
@@ -18,7 +18,7 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+Very very simple.
 
 ## Contributing
 
