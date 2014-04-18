@@ -4,17 +4,7 @@ This is simple gem which demonstrating how it's made. The main goal of this gem 
 
 ## Installation
 
-Add this line to your application's Gemfile:
-
-    gem 'exampler'
-
-And then execute:
-
-    $ bundle
-
-Or install it yourself as:
-
-    $ gem install exampler
+In development
 
 ## Usage
 
